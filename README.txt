@@ -1,38 +1,28 @@
-ACTUARIAL EXAM TUTOR - STATIC WEBSITE
+ACTUARIAL EXAM TUTOR - WEBSITE V2
 
-What is included
-- index.html
-- cm1-tutor.html
-- about.html
-- pricing.html
-- styles.css
-- robots.txt
-- sitemap.xml
+Domain
+- actuarialexamtutor.co.uk
 
-Before publishing
-1. Choose and buy a domain.
-2. Replace every instance of YOURDOMAIN.co.uk with your real domain.
-3. Replace hello@YOURDOMAIN.co.uk with your real email address.
-4. Replace the 'OT' profile placeholder with a photo later if you want.
-5. Review any wording about qualifications/employment and make sure it is accurate.
-6. Add your booking link when you create one, e.g. Cal.com.
+What changed
+- Added CM1, CS1 and CB1 throughout.
+- Added dedicated SEO landing pages for each subject.
+- Updated Oliver's background: qualified actuary, actuarial manager, pricing / ALM / with-profits experience, Master's in Mathematics.
+- Removed testimonials.
+- Kept the existing visual style.
+- Kept email enquiries as the initial booking method.
+- Added clear explanation of how the free 15-minute call works.
+- Updated sitemap and SEO metadata.
 
-Free hosting options
-- GitHub Pages
-- Cloudflare Pages
+Important email note
+The site currently uses:
+- hello@actuarialexamtutor.co.uk
 
-SEO already included
-- Search-focused page titles
-- Meta descriptions
-- Dedicated CM1 landing page
-- Canonical tags
-- robots.txt
-- sitemap.xml
-- Mobile responsive layout
+A domain registration does NOT automatically create this mailbox.
+Before launch, either:
+1. set up that email address with an email provider, or
+2. replace it in all HTML files with an existing email address.
 
-Next SEO steps after launch
-- Add the site to Google Search Console.
-- Submit sitemap.xml.
-- Add useful original articles around CM1 questions.
-- Ask genuine students for testimonials after tutoring them.
-- Get relevant links from actuarial societies / profiles where appropriate.
+Booking links
+A Cal.com-style booking link does not need to take payment.
+You can use it only to let students choose a free 15-minute slot.
+Paid sessions can still be agreed and paid separately afterwards.
