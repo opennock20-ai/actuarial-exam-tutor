@@ -26,3 +26,8 @@ Booking links
 A Cal.com-style booking link does not need to take payment.
 You can use it only to let students choose a free 15-minute slot.
 Paid sessions can still be agreed and paid separately afterwards.
+
+
+V3 BOOKING UPDATE
+- All free 15-minute call buttons now open the confirmed Cal.com booking page:
+  https://cal.com/ollie-pennock-0rkcsl/free-15-minute-actuarial-tutoring-call
