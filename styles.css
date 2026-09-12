@@ -164,3 +164,24 @@ footer .container{display:flex;justify-content:space-between;gap:18px;flex-wrap:
 .number-list li{margin:0 0 16px;padding-left:4px;color:var(--muted)}
 .number-list strong{color:var(--ink)}
 @media(max-width:820px){.study-hours-grid{grid-template-columns:1fr}}
+
+
+.email-toast{
+  position:fixed;
+  left:50%;
+  bottom:24px;
+  z-index:1000;
+  max-width:min(520px,calc(100% - 32px));
+  transform:translate(-50%,18px);
+  background:#173a3f;
+  color:#fff;
+  padding:12px 16px;
+  border-radius:12px;
+  box-shadow:0 14px 34px rgba(25,45,48,.18);
+  font-size:.9rem;
+  line-height:1.4;
+  opacity:0;
+  pointer-events:none;
+  transition:opacity .18s ease,transform .18s ease;
+}
+.email-toast.show{opacity:1;transform:translate(-50%,0)}
