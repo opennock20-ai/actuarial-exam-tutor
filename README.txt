@@ -1,31 +1,26 @@
-ACTUARIAL EXAM TUTOR - WEBSITE V4
+ACTUARIAL EXAM TUTOR - WEBSITE V5
 
-Domain
-- actuarialexamtutor.co.uk
+Main changes
+- Stronger positioning around qualified actuary + actuarial manager.
+- Exact exam marks moved to the About page only.
+- Real photograph added.
+- Mobile navigation fixed with a proper menu.
+- Direct email option: hello@actuarialexamtutor.co.uk.
+- Microsoft Teams stated as the session platform.
+- CM1, CS1 and CB1 pages rewritten to be subject-specific.
+- CB1 economics references removed.
+- Free simplified flexible revision planner added to every subject page.
+- Pricing retains £45 / 60 minutes and £65 / 90 minutes.
+- 24-hour cancellation / rescheduling wording added.
+- Policies and privacy page added.
+- No testimonials or blog added.
+- Existing cream / dark-teal visual direction retained.
 
 Booking
-- Free 15-minute call:
-  https://cal.com/ollie-pennock-0rkcsl/free-15-minute-actuarial-tutoring-call
+https://cal.com/ollie-pennock-0rkcsl/free-15-minute-actuarial-tutoring-call
 
-V4 changes
-- First-person copy throughout.
-- SEO-focused CM1, CS1 and CB1 pages.
-- Expanded subject-specific content.
-- Subtle exam-result references: CM1 91, CS1 88, CB1 89.
-- More personal About page.
-- Tailored-session proposition and pre-session questionnaire wording.
-- Online video call with screen sharing.
-- Brief follow-up email support between sessions.
-- Wider audience wording: working students, university students, independent candidates, first sittings and resits.
-- Schema.org structured data and Open Graph metadata.
-- Same warm cream / dark teal visual direction.
-- No testimonials.
-- No resources/shop section yet.
+Deployment
+Upload all files and folders in this package to the root of the existing GitHub Pages repository, replacing files with the same names.
 
-Email
-- The site references hello@actuarialexamtutor.co.uk.
-- This will work once your forwarding or mailbox setup is complete.
-
-GitHub
-- Upload all files from this package to the root of your existing repository and commit.
-- Existing files with the same names should be replaced.
+Custom domain
+Canonical URLs remain set to https://actuarialexamtutor.co.uk. Configure the custom domain in GitHub Pages and DNS separately before relying on those canonical URLs for SEO.
